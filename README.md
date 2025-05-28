@@ -1,5 +1,5 @@
-File running sequence：/n
-1.train_domain.py;/n
-2.train_unet.py;/n
-3.generate_Augcover.py;/n
+File running sequence：<br>
+1.train_domain.py;<br>
+2.train_unet.py;<br>
+3.generate_Augcover.py;<br>
 4.train.py
